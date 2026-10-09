@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T12:47:51Z",
+  "generated_at": "2026-10-09T13:15:25Z",
   "repository": "https://github.com/yiyun-ou/robot-hardware-docs",
   "branch": "main",
   "threshold_bytes": 52428800,
@@ -61,9 +61,17 @@
       "size": 66184562,
       "sha256": "3482460e44dbdb2f3bd3e16bd97c3110ee0f8d53f1d7b3dde4c598627a06c650",
       "storage": "release",
-      "remote_url": null,
+      "remote_url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0006-3482460e44db-RSView_Win_4.3.15_0514.7z",
       "asset_name": "source-0006-3482460e44db-RSView_Win_4.3.15_0514.7z",
-      "release_tag": "hardware-assets-2026-10-09"
+      "release_tag": "hardware-assets-2026-10-09",
+      "release_asset": {
+        "name": "source-0006-3482460e44db-RSView_Win_4.3.15_0514.7z",
+        "size": 66184562,
+        "url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0006-3482460e44db-RSView_Win_4.3.15_0514.7z",
+        "api_url": "https://api.github.com/repos/yiyun-ou/robot-hardware-docs/releases/assets/624989830",
+        "digest": "sha256:3482460e44dbdb2f3bd3e16bd97c3110ee0f8d53f1d7b3dde4c598627a06c650",
+        "sha256": "3482460e44dbdb2f3bd3e16bd97c3110ee0f8d53f1d7b3dde4c598627a06c650"
+      }
     },
     {
       "path": "E1R激光雷达/RSView用户手册.pdf",
@@ -79,9 +87,17 @@
       "size": 146249927,
       "sha256": "8f1e6ec9f74f77e40045e30c56524596bed98163c067e9bcc99e04afd093e17b",
       "storage": "release",
-      "remote_url": null,
+      "remote_url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0008-8f1e6ec9f74f-1.jetson_Orin_.mp4",
       "asset_name": "source-0008-8f1e6ec9f74f-1.jetson_Orin_.mp4",
-      "release_tag": "hardware-assets-2026-10-09"
+      "release_tag": "hardware-assets-2026-10-09",
+      "release_asset": {
+        "name": "source-0008-8f1e6ec9f74f-1.jetson_Orin_.mp4",
+        "size": 146249927,
+        "url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0008-8f1e6ec9f74f-1.jetson_Orin_.mp4",
+        "api_url": "https://api.github.com/repos/yiyun-ou/robot-hardware-docs/releases/assets/624990564",
+        "digest": "sha256:8f1e6ec9f74f77e40045e30c56524596bed98163c067e9bcc99e04afd093e17b",
+        "sha256": "8f1e6ec9f74f77e40045e30c56524596bed98163c067e9bcc99e04afd093e17b"
+      }
     },
     {
       "path": "Jetson Orin NX资料/1.视频讲解/2.Jetson Orin 系列产品开机使用说明.mp4",
@@ -89,9 +105,17 @@
       "size": 180315875,
       "sha256": "083f71800bcee459cfad08ed59bfef9e086f2b6ed1b5fa3e1fb2401e2c7f49ee",
       "storage": "release",
-      "remote_url": null,
+      "remote_url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0009-083f71800bce-2.Jetson_Orin_.mp4",
       "asset_name": "source-0009-083f71800bce-2.Jetson_Orin_.mp4",
-      "release_tag": "hardware-assets-2026-10-09"
+      "release_tag": "hardware-assets-2026-10-09",
+      "release_asset": {
+        "name": "source-0009-083f71800bce-2.Jetson_Orin_.mp4",
+        "size": 180315875,
+        "url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0009-083f71800bce-2.Jetson_Orin_.mp4",
+        "api_url": "https://api.github.com/repos/yiyun-ou/robot-hardware-docs/releases/assets/624992983",
+        "digest": "sha256:083f71800bcee459cfad08ed59bfef9e086f2b6ed1b5fa3e1fb2401e2c7f49ee",
+        "sha256": "083f71800bcee459cfad08ed59bfef9e086f2b6ed1b5fa3e1fb2401e2c7f49ee"
+      }
     },
     {
       "path": "Jetson Orin NX资料/1.视频讲解/3.Jetson Orin 系列系统烧写详细介绍/3.ubuntu 18.04 系统环境安装.mp4",
@@ -99,9 +123,17 @@
       "size": 63002764,
       "sha256": "1d7517a738dcc5b571702d9bdaece253498722b5de1b18d1e3bb87c9b8fab7de",
       "storage": "release",
-      "remote_url": null,
+      "remote_url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0010-1d7517a738dc-3.ubuntu_18.04_.mp4",
       "asset_name": "source-0010-1d7517a738dc-3.ubuntu_18.04_.mp4",
-      "release_tag": "hardware-assets-2026-10-09"
+      "release_tag": "hardware-assets-2026-10-09",
+      "release_asset": {
+        "name": "source-0010-1d7517a738dc-3.ubuntu_18.04_.mp4",
+        "size": 63002764,
+        "url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0010-1d7517a738dc-3.ubuntu_18.04_.mp4",
+        "api_url": "https://api.github.com/repos/yiyun-ou/robot-hardware-docs/releases/assets/624994332",
+        "digest": "sha256:1d7517a738dcc5b571702d9bdaece253498722b5de1b18d1e3bb87c9b8fab7de",
+        "sha256": "1d7517a738dcc5b571702d9bdaece253498722b5de1b18d1e3bb87c9b8fab7de"
+      }
     },
     {
       "path": "Jetson Orin NX资料/1.视频讲解/3.Jetson Orin 系列系统烧写详细介绍/4.配置Jenson Orin 烧入环境.mp4",
@@ -109,9 +141,17 @@
       "size": 85154844,
       "sha256": "4bb9352059af998caea4e502291a74f34a11f124bcf39d891b58bc92dbe6648c",
       "storage": "release",
-      "remote_url": null,
+      "remote_url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0011-4bb9352059af-4._Jenson_Orin_.mp4",
       "asset_name": "source-0011-4bb9352059af-4._Jenson_Orin_.mp4",
-      "release_tag": "hardware-assets-2026-10-09"
+      "release_tag": "hardware-assets-2026-10-09",
+      "release_asset": {
+        "name": "source-0011-4bb9352059af-4._Jenson_Orin_.mp4",
+        "size": 85154844,
+        "url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0011-4bb9352059af-4._Jenson_Orin_.mp4",
+        "api_url": "https://api.github.com/repos/yiyun-ou/robot-hardware-docs/releases/assets/624994835",
+        "digest": "sha256:4bb9352059af998caea4e502291a74f34a11f124bcf39d891b58bc92dbe6648c",
+        "sha256": "4bb9352059af998caea4e502291a74f34a11f124bcf39d891b58bc92dbe6648c"
+      }
     },
     {
       "path": "Jetson Orin NX资料/1.视频讲解/3.Jetson Orin 系列系统烧写详细介绍/5.Jenson Orin 系列产品系统烧入过程讲解.mp4",
@@ -119,9 +159,17 @@
       "size": 252506060,
       "sha256": "34c3e9e50fb2fa60f998418b5e8f065402c0ae6275e80fbdd80d343e23fac4f4",
       "storage": "release",
-      "remote_url": null,
+      "remote_url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0012-34c3e9e50fb2-5.Jenson_Orin_.mp4",
       "asset_name": "source-0012-34c3e9e50fb2-5.Jenson_Orin_.mp4",
-      "release_tag": "hardware-assets-2026-10-09"
+      "release_tag": "hardware-assets-2026-10-09",
+      "release_asset": {
+        "name": "source-0012-34c3e9e50fb2-5.Jenson_Orin_.mp4",
+        "size": 252506060,
+        "url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0012-34c3e9e50fb2-5.Jenson_Orin_.mp4",
+        "api_url": "https://api.github.com/repos/yiyun-ou/robot-hardware-docs/releases/assets/624995645",
+        "digest": "sha256:34c3e9e50fb2fa60f998418b5e8f065402c0ae6275e80fbdd80d343e23fac4f4",
+        "sha256": "34c3e9e50fb2fa60f998418b5e8f065402c0ae6275e80fbdd80d343e23fac4f4"
+      }
     },
     {
       "path": "Jetson Orin NX资料/1.视频讲解/4.Jetson Orin 系列产品开机向导设置说明.mp4",
@@ -129,9 +177,17 @@
       "size": 127257187,
       "sha256": "211527444ff57c06cb5640d4e8fb6f63824883aacc76027c74a0b422935e3384",
       "storage": "release",
-      "remote_url": null,
+      "remote_url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0013-211527444ff5-4.Jetson_Orin_.mp4",
       "asset_name": "source-0013-211527444ff5-4.Jetson_Orin_.mp4",
-      "release_tag": "hardware-assets-2026-10-09"
+      "release_tag": "hardware-assets-2026-10-09",
+      "release_asset": {
+        "name": "source-0013-211527444ff5-4.Jetson_Orin_.mp4",
+        "size": 127257187,
+        "url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0013-211527444ff5-4.Jetson_Orin_.mp4",
+        "api_url": "https://api.github.com/repos/yiyun-ou/robot-hardware-docs/releases/assets/624997670",
+        "digest": "sha256:211527444ff57c06cb5640d4e8fb6f63824883aacc76027c74a0b422935e3384",
+        "sha256": "211527444ff57c06cb5640d4e8fb6f63824883aacc76027c74a0b422935e3384"
+      }
     },
     {
       "path": "Jetson Orin NX资料/1.视频讲解/5.Jetson Orin系列产品SSH连接及Jtop工具安装说明.mp4",
@@ -139,9 +195,17 @@
       "size": 94379102,
       "sha256": "b1f7c8f7e54a3a71db9d76c7f0cd92b6a1aa4687c3afb0645e96cfb36abae338",
       "storage": "release",
-      "remote_url": null,
+      "remote_url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0014-b1f7c8f7e54a-5.Jetson_Orin_SSH_Jtop_.mp4",
       "asset_name": "source-0014-b1f7c8f7e54a-5.Jetson_Orin_SSH_Jtop_.mp4",
-      "release_tag": "hardware-assets-2026-10-09"
+      "release_tag": "hardware-assets-2026-10-09",
+      "release_asset": {
+        "name": "source-0014-b1f7c8f7e54a-5.Jetson_Orin_SSH_Jtop_.mp4",
+        "size": 94379102,
+        "url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0014-b1f7c8f7e54a-5.Jetson_Orin_SSH_Jtop_.mp4",
+        "api_url": "https://api.github.com/repos/yiyun-ou/robot-hardware-docs/releases/assets/624998629",
+        "digest": "sha256:b1f7c8f7e54a3a71db9d76c7f0cd92b6a1aa4687c3afb0645e96cfb36abae338",
+        "sha256": "b1f7c8f7e54a3a71db9d76c7f0cd92b6a1aa4687c3afb0645e96cfb36abae338"
+      }
     },
     {
       "path": "Jetson Orin NX资料/1.视频讲解/6.Jetson Orin系列产品Jetpack 组件安装（CUDA）.mp4",
@@ -149,9 +213,17 @@
       "size": 70180386,
       "sha256": "5a7bc17bf1c8feeacb9ad050e7ac2cdffc34857357ab7cae9a66e8c3aff305b3",
       "storage": "release",
-      "remote_url": null,
+      "remote_url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0015-5a7bc17bf1c8-6.Jetson_Orin_Jetpack_CUDA_.mp4",
       "asset_name": "source-0015-5a7bc17bf1c8-6.Jetson_Orin_Jetpack_CUDA_.mp4",
-      "release_tag": "hardware-assets-2026-10-09"
+      "release_tag": "hardware-assets-2026-10-09",
+      "release_asset": {
+        "name": "source-0015-5a7bc17bf1c8-6.Jetson_Orin_Jetpack_CUDA_.mp4",
+        "size": 70180386,
+        "url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0015-5a7bc17bf1c8-6.Jetson_Orin_Jetpack_CUDA_.mp4",
+        "api_url": "https://api.github.com/repos/yiyun-ou/robot-hardware-docs/releases/assets/624999353",
+        "digest": "sha256:5a7bc17bf1c8feeacb9ad050e7ac2cdffc34857357ab7cae9a66e8c3aff305b3",
+        "sha256": "5a7bc17bf1c8feeacb9ad050e7ac2cdffc34857357ab7cae9a66e8c3aff305b3"
+      }
     },
     {
       "path": "Jetson Orin NX资料/1.视频讲解/7.Jetson Orin系列产品CSI摄像头使用讲解.mp4",
@@ -159,9 +231,17 @@
       "size": 194777092,
       "sha256": "6621bcd42b1dc7156bbfe974e21db8b8b22a7d9d56857a645d211c4ed89a4e3f",
       "storage": "release",
-      "remote_url": null,
+      "remote_url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0016-6621bcd42b1d-7.Jetson_Orin_CSI_.mp4",
       "asset_name": "source-0016-6621bcd42b1d-7.Jetson_Orin_CSI_.mp4",
-      "release_tag": "hardware-assets-2026-10-09"
+      "release_tag": "hardware-assets-2026-10-09",
+      "release_asset": {
+        "name": "source-0016-6621bcd42b1d-7.Jetson_Orin_CSI_.mp4",
+        "size": 194777092,
+        "url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0016-6621bcd42b1d-7.Jetson_Orin_CSI_.mp4",
+        "api_url": "https://api.github.com/repos/yiyun-ou/robot-hardware-docs/releases/assets/624999957",
+        "digest": "sha256:6621bcd42b1dc7156bbfe974e21db8b8b22a7d9d56857a645d211c4ed89a4e3f",
+        "sha256": "6621bcd42b1dc7156bbfe974e21db8b8b22a7d9d56857a645d211c4ed89a4e3f"
+      }
     },
     {
       "path": "Jetson Orin NX资料/官方参考文档/Jetson_Orin_Nano_DevKit_Carrier_Board_Specification_SP-11324-001_v1.0.pdf",
@@ -201,9 +281,17 @@
       "size": 188492751,
       "sha256": "0fe6ca849eb756aeaf5ab891ef1332500a39a4767b35c0e526972110c63e39de",
       "storage": "release",
-      "remote_url": null,
+      "remote_url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0021-0fe6ca849eb7-Jetson_Orin_NX_Orin_Nano_Signal_Integrity_Simulation_AN_DA-11143-001_v1.1.pdf",
       "asset_name": "source-0021-0fe6ca849eb7-Jetson_Orin_NX_Orin_Nano_Signal_Integrity_Simulation_AN_DA-11143-001_v1.1.pdf",
-      "release_tag": "hardware-assets-2026-10-09"
+      "release_tag": "hardware-assets-2026-10-09",
+      "release_asset": {
+        "name": "source-0021-0fe6ca849eb7-Jetson_Orin_NX_Orin_Nano_Signal_Integrity_Simulation_AN_DA-11143-001_v1.1.pdf",
+        "size": 188492751,
+        "url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0021-0fe6ca849eb7-Jetson_Orin_NX_Orin_Nano_Signal_Integrity_Simulation_AN_DA-11143-001_v1.1.pdf",
+        "api_url": "https://api.github.com/repos/yiyun-ou/robot-hardware-docs/releases/assets/625001647",
+        "digest": "sha256:0fe6ca849eb756aeaf5ab891ef1332500a39a4767b35c0e526972110c63e39de",
+        "sha256": "0fe6ca849eb756aeaf5ab891ef1332500a39a4767b35c0e526972110c63e39de"
+      }
     },
     {
       "path": "Jetson Orin NX资料/官方参考文档/Jetson_Orin_NX_Series_and_Jetson_Orin_Nano_Series_SCL.pdf",
@@ -563,9 +651,17 @@
       "size": 126356565,
       "sha256": "00f0ac936512f93f872811078c0c8bf123dfd56d4f94fabbaac85c67adde1c3d",
       "storage": "release",
-      "remote_url": null,
+      "remote_url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0066-00f0ac936512-4.wireshark_.zip",
       "asset_name": "source-0066-00f0ac936512-4.wireshark_.zip",
-      "release_tag": "hardware-assets-2026-10-09"
+      "release_tag": "hardware-assets-2026-10-09",
+      "release_asset": {
+        "name": "source-0066-00f0ac936512-4.wireshark_.zip",
+        "size": 126356565,
+        "url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0066-00f0ac936512-4.wireshark_.zip",
+        "api_url": "https://api.github.com/repos/yiyun-ou/robot-hardware-docs/releases/assets/625003452",
+        "digest": "sha256:00f0ac936512f93f872811078c0c8bf123dfd56d4f94fabbaac85c67adde1c3d",
+        "sha256": "00f0ac936512f93f872811078c0c8bf123dfd56d4f94fabbaac85c67adde1c3d"
+      }
     },
     {
       "path": "WHEELTEC H30惯导产品资料/WHEELTEC_H30惯导产品资料_20250515/3.软件工具/5.NetModuleConfig网口IP_波特率修改工具.zip",
@@ -853,9 +949,17 @@
       "size": 172692354,
       "sha256": "28d3e32d17c5911c6c65bb632a629e2874cfe1ea1c0ad7935b189d75ce9a2189",
       "storage": "release",
-      "remote_url": null,
+      "remote_url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0102-28d3e32d17c5-OrbbecViewer_v2.9.3_202607161422_b7e38ef_win_x64.zip",
       "asset_name": "source-0102-28d3e32d17c5-OrbbecViewer_v2.9.3_202607161422_b7e38ef_win_x64.zip",
-      "release_tag": "hardware-assets-2026-10-09"
+      "release_tag": "hardware-assets-2026-10-09",
+      "release_asset": {
+        "name": "source-0102-28d3e32d17c5-OrbbecViewer_v2.9.3_202607161422_b7e38ef_win_x64.zip",
+        "size": 172692354,
+        "url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0102-28d3e32d17c5-OrbbecViewer_v2.9.3_202607161422_b7e38ef_win_x64.zip",
+        "api_url": "https://api.github.com/repos/yiyun-ou/robot-hardware-docs/releases/assets/625004547",
+        "digest": "sha256:28d3e32d17c5911c6c65bb632a629e2874cfe1ea1c0ad7935b189d75ce9a2189",
+        "sha256": "28d3e32d17c5911c6c65bb632a629e2874cfe1ea1c0ad7935b189d75ce9a2189"
+      }
     },
     {
       "path": "奥比中光Gemini335/升级相机固件/Gemini330_Release_1.6.00.bin",
@@ -879,9 +983,17 @@
       "size": 306368675,
       "sha256": "1b35487959f538728278c0dddd9a13ab2c531db708120dce80e962d4ba46ef81",
       "storage": "release",
-      "remote_url": null,
+      "remote_url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0105-1b35487959f5-orbbec_ws.zip",
       "asset_name": "source-0105-1b35487959f5-orbbec_ws.zip",
-      "release_tag": "hardware-assets-2026-10-09"
+      "release_tag": "hardware-assets-2026-10-09",
+      "release_asset": {
+        "name": "source-0105-1b35487959f5-orbbec_ws.zip",
+        "size": 306368675,
+        "url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0105-1b35487959f5-orbbec_ws.zip",
+        "api_url": "https://api.github.com/repos/yiyun-ou/robot-hardware-docs/releases/assets/625006313",
+        "digest": "sha256:1b35487959f538728278c0dddd9a13ab2c531db708120dce80e962d4ba46ef81",
+        "sha256": "1b35487959f538728278c0dddd9a13ab2c531db708120dce80e962d4ba46ef81"
+      }
     },
     {
       "path": "奥比中光Gemini335/源码/OrbbecSDK_ROS2.zip",
@@ -913,9 +1025,17 @@
       "size": 172692354,
       "sha256": "28d3e32d17c5911c6c65bb632a629e2874cfe1ea1c0ad7935b189d75ce9a2189",
       "storage": "release",
-      "remote_url": null,
+      "remote_url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0109-28d3e32d17c5-OrbbecViewer_v2.9.3_202607161422_b7e38ef_win_x64.zip",
       "asset_name": "source-0109-28d3e32d17c5-OrbbecViewer_v2.9.3_202607161422_b7e38ef_win_x64.zip",
-      "release_tag": "hardware-assets-2026-10-09"
+      "release_tag": "hardware-assets-2026-10-09",
+      "release_asset": {
+        "name": "source-0109-28d3e32d17c5-OrbbecViewer_v2.9.3_202607161422_b7e38ef_win_x64.zip",
+        "size": 172692354,
+        "url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0109-28d3e32d17c5-OrbbecViewer_v2.9.3_202607161422_b7e38ef_win_x64.zip",
+        "api_url": "https://api.github.com/repos/yiyun-ou/robot-hardware-docs/releases/assets/625008688",
+        "digest": "sha256:28d3e32d17c5911c6c65bb632a629e2874cfe1ea1c0ad7935b189d75ce9a2189",
+        "sha256": "28d3e32d17c5911c6c65bb632a629e2874cfe1ea1c0ad7935b189d75ce9a2189"
+      }
     },
     {
       "path": "奥比中光Gemini335/通用资料/升级相机固件/Gemini330_Release_1.6.00.bin",
@@ -1003,9 +1123,17 @@
       "size": 404471321,
       "sha256": "ffc0987e7a0ee63a033c302d5c34f6e96c2c95884fd5fe85c784c747ee3289aa",
       "storage": "release",
-      "remote_url": null,
+      "remote_url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0120-ffc0987e7a0e-6.21.mp4",
       "asset_name": "source-0120-ffc0987e7a0e-6.21.mp4",
-      "release_tag": "hardware-assets-2026-10-09"
+      "release_tag": "hardware-assets-2026-10-09",
+      "release_asset": {
+        "name": "source-0120-ffc0987e7a0e-6.21.mp4",
+        "size": 404471321,
+        "url": "https://github.com/yiyun-ou/robot-hardware-docs/releases/download/hardware-assets-2026-10-09/source-0120-ffc0987e7a0e-6.21.mp4",
+        "api_url": "https://api.github.com/repos/yiyun-ou/robot-hardware-docs/releases/assets/625012853",
+        "digest": "sha256:ffc0987e7a0ee63a033c302d5c34f6e96c2c95884fd5fe85c784c747ee3289aa",
+        "sha256": "ffc0987e7a0ee63a033c302d5c34f6e96c2c95884fd5fe85c784c747ee3289aa"
+      }
     },
     {
       "path": "机器人/depth_npy/0.npy",
