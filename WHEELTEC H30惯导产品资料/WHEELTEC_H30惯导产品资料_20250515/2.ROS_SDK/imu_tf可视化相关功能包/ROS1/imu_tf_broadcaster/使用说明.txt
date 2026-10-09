@@ -1,0 +1,3 @@
+节点启动：rosrun imu_tf_broadcaster imu_tf_broadcaster
+launch文件启动：roslaunch imu_tf_broadcaster imu_tf_broadcaster.launch
+launch文件启动默认话题：/imu   世界frame_id：world     imu_frame_id：gyro_link

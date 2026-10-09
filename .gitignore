@@ -1,0 +1,25 @@
+# Local upload state (never commit)
+.upload-local/
+
+# System and temporary files
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+*.tmp
+*.temp
+*.part
+*.crdownload
+__pycache__/
+.cache/
+
+# Sensitive local files
+.env
+.env.*
+*.key
+*.pfx
+*.p12
+id_rsa
+id_dsa
+id_ecdsa
+id_ed25519

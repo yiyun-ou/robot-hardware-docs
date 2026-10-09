@@ -1,0 +1,9 @@
+基础SDK、文档下载地址：
+https://gitee.com/orbbecdeveloper/OrbbecSDK
+OrbbecViewer工具下载地址：
+https://github.com/orbbec/OrbbecSDK/releases
+ROS相关文档和SDK，readme.md文档有相关介绍：
+https://github.com/orbbec/OrbbecSDK_ROS1.git
+https://github.com/orbbec/OrbbecSDK_ROS2.git
+PythonSDK下载路径：
+https://github.com/orbbec/pyorbbecsdk

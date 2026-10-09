@@ -1,0 +1,3 @@
+节点启动：ros2 run imu_tf_broadcaster imu_tf_broadcaster
+launch文件启动：ros2 launch imu_tf_broadcaster imu_tf_broadcaster.launch.py
+launch文件启动默认话题：/imu/data_raw    世界frame_id：world     imu_frame_id：gyro_link
